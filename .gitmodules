@@ -1,0 +1,4 @@
+[submodule "jesusalvarezxmarts/miniso"]
+	path = jesusalvarezxmarts/miniso
+	url = git@github.com:jesusalvarezxmarts/miniso.git
+	branch = main
