@@ -2,3 +2,8 @@
 	path = jesusalvarezxmarts/miniso
 	url = git@github.com:jesusalvarezxmarts/miniso.git
 	branch = main
+
+[submodule "jesusalvarezxmarts/pos_1"]
+	path = jesusalvarezxmarts/pos_1
+	url = git@github.com:jesusalvarezxmarts/pos_1.git
+	branch = main
